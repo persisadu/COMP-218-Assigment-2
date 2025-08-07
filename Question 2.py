@@ -3,7 +3,7 @@ def gcd_recursive(a,b):
 
    a, b = abs(a), abs(b)
    if b ==0:
-       return a
+       return a 
    return gcd_recursive(b, a % b)
 
 def main():
