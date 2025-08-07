@@ -1,0 +1,69 @@
+Question: What is the output of print(3 +2)?
+A) 32
+B) 5
+C) 6
+D) Error
+Answer: B
+
+Question: Which keyword is used to define a function in Python?
+A) func
+B) define
+C) def
+D) function
+Answer: C
+
+Question: What symbol is used for comments in Python?
+A) //
+B) --
+C) #
+D) %%
+Answer: C 
+
+Question: What is the correct way to create a list?
+A) list = (1, 2, 3)
+B) list = [1, 2, 3]
+C) list = {1, 2, 3}
+D) list = <1, 2, 3>
+Answer: B
+
+Question: Which data type is used to store text?
+A) int
+B) str
+C) float
+D) bool
+Answer: B
+
+Question: How do you write “Hello” to the screen in Python?
+A) echo("Hello")
+B) print("Hello")
+C) write("Hello")
+D) display("Hello")
+Answer: B
+
+Question: What will the expression 10 // 3 return?
+A) 3.33
+B) 3
+C) 3.0
+D) Error
+Answer: B
+
+Question: Which of these is a valid variable name?
+A) 2value
+B) value2
+C) @value
+D) value!
+Answer: B
+
+Question: What does the len() function do?
+A) Adds numbers
+B) Counts elements
+C) Converts strings
+D) Exits program
+Answer: B
+
+Question: Which operator is used for equality comparison?
+A) =
+B) ==
+C) !=
+D) <>
+Answer: B
