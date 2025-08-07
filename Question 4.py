@@ -15,7 +15,7 @@ def hanoi(n, source, target, temp):
         # step 3: move n-1 discs from temp to target
         moves += hanoi(n-1, temp, target, source)
 
-    return moves
+    return movesnnnnnnnn
 
 
 def main():
